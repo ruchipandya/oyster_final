@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Oyster.iml" filepath="$PROJECT_DIR$/Oyster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oyster_final.iml" filepath="$PROJECT_DIR$/oyster_final.iml" />
     </modules>
   </component>
 </project>
